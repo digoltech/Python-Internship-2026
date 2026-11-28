@@ -1,5 +1,6 @@
 Python Package & Environment Management Guide for Interns
 Welcome to the team! This guide explains how Python environments and dependencies work. By the end of this document, you will understand how to manage project dependencies safely and maintain consistent development environments.
+
 ---
 1. What is `venv` and Why Is It Needed?
 The Problem with Global Python
@@ -18,6 +19,7 @@ Your Computer
     └── .venv/ (Python 3.11 + Django 4.2)
 ```
 With `venv`, each project runs independently without interfering with system files or other projects.
+
 ---
 2. How to Use `venv`
 Step 1: Create a Virtual Environment
